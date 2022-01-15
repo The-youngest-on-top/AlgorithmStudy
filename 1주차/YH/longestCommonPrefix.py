@@ -11,6 +11,5 @@ class Solution:
             for j in range(1, len(strs_list)) :
                 if strs_list[0][i] != strs_list[j][i] : 
                     return strs[0][:i]
-                
         
         return answer
