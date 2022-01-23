@@ -16,14 +16,14 @@ class Solution {
     }
 }
 
-//방법2
+//방법2 (속도랑 메모리 측면에서 더 효율적)
 class Solution {
     public int maxSubArray(int[] nums) {
         int max = nums[0]; // 최대값 저장
         int sum = nums[0]; // 지금까지 sum 값
         for(int i = 1; i<nums.length; i++){
-            sum = Math.max(sum+nums[i] , nums[i]); //sum + 현재값 과 현재값 중 큰것을 sum에 저장
-            max = Math.max(sum,max); // sum이 큰 지 max가 큰 지 비교
+             sum = (sum+nums[i] > nums[i])? sum+nums[i] : nums[i]; //sum + 현재값 과 현재값 중 큰것을 sum에 저장
+             max = (sum > max) ? sum : max; // sum이 큰 지 max가 큰 지 비교
         }
         return max;
     }
