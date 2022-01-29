@@ -20,3 +20,11 @@
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 
+## Week3 (20220129~20220205)
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+- [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+
