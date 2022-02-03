@@ -8,8 +8,6 @@ class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         
         answer = False
-        left = []
-        right = []
         
         if root is None : answer = False
 
