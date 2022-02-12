@@ -36,3 +36,11 @@
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 - [169. Majority Element](https://leetcode.com/problems/majority-element)
 
+## Week5 (20220212~20220219)
+- [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
+- [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+- [202. Happy Number](https://leetcode.com/problems/happy-number)
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+
