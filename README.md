@@ -28,3 +28,19 @@
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 
+## Week4 (20220205~20220212)
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+- [136. Single Number](https://leetcode.com/problems/single-number)
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+- [155. Min Stack](https://leetcode.com/problems/min-stack)
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
+- [169. Majority Element](https://leetcode.com/problems/majority-element)
+
+## Week5 (20220212~20220219)
+- [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
+- [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+- [202. Happy Number](https://leetcode.com/problems/happy-number)
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+
