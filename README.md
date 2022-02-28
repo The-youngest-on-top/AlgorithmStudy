@@ -44,3 +44,16 @@
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 
+## Week 6 (20220219~20220226)
+- [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+- [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
+- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [268. Missing Number](https://leetcode.com/problems/missing-number)
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
+- [326. Power of Three](https://leetcode.com/problems/power-of-three)
+
+## Week 7 (20220226~20220305)
+- [344. Reverse String](https://leetcode.com/problems/reverse-string)
+- [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+- [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
+- [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
