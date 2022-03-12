@@ -62,3 +62,8 @@
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+
+## Week 9 (20220312~20220319)
+- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
+- [27. Remove Element](https://leetcode.com/problems/remove-element)
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
