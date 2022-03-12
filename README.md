@@ -20,7 +20,7 @@
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 
-## Week3 (20220129~20220205)
+## Week 3 (20220129~20220205)
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 - [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
@@ -28,7 +28,7 @@
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 
-## Week4 (20220205~20220212)
+## Week 4 (20220205~20220212)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 - [136. Single Number](https://leetcode.com/problems/single-number)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
@@ -36,7 +36,7 @@
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 - [169. Majority Element](https://leetcode.com/problems/majority-element)
 
-## Week5 (20220212~20220219)
+## Week 5 (20220212~20220219)
 - [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)
 - [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
@@ -57,3 +57,8 @@
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
+
+## Week 8 (20220305~20220312)
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
