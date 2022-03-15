@@ -2,7 +2,16 @@
 
 [LeetCode](https://leetcode.com/) Algorithm Study
 
-벌금 문제 당 1000원
+# 구성원
+
+**Java**: 김강민
+
+**Javascript**: 권낙현
+
+**Python**: 정연휘
+
+# 벌금 
+문제 당 **1000**원
 
 ## Week 1 (20220115~20220122)
 - [1.Two Sum](https://leetcode.com/problems/two-sum/)
