@@ -2,7 +2,14 @@
 
 [LeetCode](https://leetcode.com/) Algorithm Study
 
-벌금 문제 당 1000원
+# 구성원
+
+| **Java** | **JavaScript** | **Python**|
+|:---:|:---:|:---:|
+|김강민|권낙현|정연휘|
+
+# 벌금 
+문제 당 **1000**원
 
 ## Week 1 (20220115~20220122)
 - [1.Two Sum](https://leetcode.com/problems/two-sum/)
@@ -62,3 +69,8 @@
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+
+## Week 9 (20220312~20220319)
+- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
+- [27. Remove Element](https://leetcode.com/problems/remove-element)
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
