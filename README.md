@@ -74,7 +74,7 @@
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [27. Remove Element](https://leetcode.com/problems/remove-element)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
-- 
+
 ## Week 10 (20220319~20220326)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
