@@ -77,5 +77,5 @@
 
 ## Week 10 (20220319~20220326)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
