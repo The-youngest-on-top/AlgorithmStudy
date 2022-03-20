@@ -76,6 +76,6 @@
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
 
 ## Week 10 (20220319~20220326)
-- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
