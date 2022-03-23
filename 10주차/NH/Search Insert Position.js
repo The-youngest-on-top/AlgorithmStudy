@@ -1,29 +1,26 @@
-function maxArea(height) {
-    let max=0;
-    let i=0;
-    let j=height.length-1;
-    while(i<j) {
-       let area=Math.min(height[i], height[j])*(j-i);
-       max=Math.max(max,area);
-       if(height[i]<=height[j])
-           i++;
-       else 
-           j--;
-    }
-    return max;
+function searchInsert(nums, target) {
+    return binarySearch(nums,target,0,nums.length-1);
 };
-/*
-function maxArea(height) {
-  let max=0;
-       for(let i=0; i<height.length; i++){
-           for(let j=0; j<height.length; j++){
-               if(i==j)continue;
-                let row=Math.abs(i-j);
-                let col=height[i]>height[j]?height[j]:height[i];
-                max=Math.max(row*col,max);
-           }
-       }
-    return max;
+
+function binarySearch(array, target,start,end) {
+    if (start>end) return start;
+    let mid = parseInt((start + end)/2);
+    if (array[mid]==target) 
+        return mid;
+    else if (array[mid]>target) 
+        return binarySearch(array,target,start,mid-1);
+    else 
+        return binarySearch(array,target,mid + 1,end);
+};
+
+/*function searchInsert(nums, target) {
+    for(let i=0; i<nums.length; i++){
+        if(nums[i]>=target){
+            return i;
+        }
+    }
+    return nums.length;
 };
 */
-//시간초과..
+//시간복잡도 O(n)
+
