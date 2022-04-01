@@ -26,7 +26,7 @@
 - [66. Plus One](https://leetcode.com/problems/plus-one)
 - [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
-- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array )
 
 ## Week 3 (20220129~20220205)
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
