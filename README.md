@@ -87,6 +87,6 @@
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits)
 
 ## Week 12 (20220402 ~ 20220409)
-- [3Sum](https://leetcode.com/problems/3sum/)
+- [15. 3Sum](https://leetcode.com/problems/3sum/)
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
