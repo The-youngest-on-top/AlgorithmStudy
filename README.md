@@ -26,7 +26,7 @@
 - [66. Plus One](https://leetcode.com/problems/plus-one)
 - [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
-- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array )
 
 ## Week 3 (20220129~20220205)
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
@@ -85,3 +85,8 @@
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits)
+
+## Week 12 (20220402 ~ 20220409)
+- [15. 3Sum](https://leetcode.com/problems/3sum/)
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
