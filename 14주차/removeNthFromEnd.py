@@ -26,4 +26,4 @@ class Solution:
             
         # 지워야 하는 값 이전과 이후의 값들을 연결
         tmp.next = tmp.next.next
-        return head
+        return head 
