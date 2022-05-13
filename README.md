@@ -105,3 +105,8 @@
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [112. Path Sum](https://leetcode.com/problems/path-sum/)
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+## Week 16 (20220514 ~ 20220521)
+- [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+- [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+- [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
