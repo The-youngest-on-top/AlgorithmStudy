@@ -1,26 +1,25 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-class Solution {
+int dp[50][50];
+class Solution
+{
 public:
-    vector<int> answer;
-    int origin =0;
-    void dfs(string cur){
-        for(char c='0';c<='9';c++){
-            int tmp = atoi((cur+c).c_str());
-            if(tmp<=origin){
-                if(tmp == 0) continue;
-                answer.push_back(tmp);
-                dfs(cur+c);
+    vector<int> getRow(int rowIndex)
+    {
+        rowIndex++;
+        dp[1][1] = 1;
+        vector<int> ans;
+        for (int i = 2; i <= rowIndex; i++)
+        {
+            for (int j = 1; j <= i; j++)
+            {
+                dp[i][j] = dp[i - 1][j - 1] + dp[i-1][j];
             }
         }
-    }
-    vector<int> lexicalOrder(int n) {
-        origin = n;
-        dfs("");
-        return answer;
+        for (int i = 1; i <= rowIndex; i++)
+        {
+            ans.push_back(dp[rowIndex][i]);
+        }
+        return ans;
     }
 };
-int main(void){
-    Solution S;
-    S.lexicalOrder(13);
-}
