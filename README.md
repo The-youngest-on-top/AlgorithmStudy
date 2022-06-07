@@ -124,4 +124,4 @@
 ## Week 19 (20220604 ~ 20220611)
 - [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
-- [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
