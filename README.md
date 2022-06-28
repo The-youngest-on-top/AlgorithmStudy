@@ -128,5 +128,5 @@
 
 ## Week 20 (20220625 ~ 20220702)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-- [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array//)
+- [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)
