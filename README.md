@@ -130,3 +130,8 @@
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)
+
+## Week 21 (20220702 ~ 20220709)
+- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+- [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
