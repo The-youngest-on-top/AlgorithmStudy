@@ -135,3 +135,9 @@
 - [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
 - [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+
+## Week 22 (20220709 ~ 20220716)
+- [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+- [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+- [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
+
