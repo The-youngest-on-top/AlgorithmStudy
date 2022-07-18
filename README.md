@@ -6,8 +6,8 @@
 
 | **Java** | **JavaScript** | **Python**|**C++**|
 |:---:|:---:|:---:|:---:|
-|김강민|권낙현|정연휘||
-|      |허다은||김서기
+|김강민(취업)|권낙현|정연휘||
+|      |허다은||김서기(소마)
 
 # 벌금 
 문제 당 **1000**원
@@ -120,3 +120,24 @@
 - [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
 - [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
+
+## Week 19 (20220618 ~ 20220625)
+- [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+- [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+## Week 20 (20220625 ~ 20220702)
+- [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+- [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)
+
+## Week 21 (20220702 ~ 20220709)
+- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+- [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+
+## Week 22 (20220709 ~ 20220716)
+- [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+- [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+- [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
+
