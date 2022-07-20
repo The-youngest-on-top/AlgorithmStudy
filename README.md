@@ -141,3 +141,7 @@
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
 - [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
 
+## Week 23 (20220716 ~ 20220723)
+- [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+- [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
+- [561. Array Partition](https://leetcode.com/problems/array-partition/)
