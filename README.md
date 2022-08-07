@@ -155,3 +155,8 @@
 - [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 - [78. Subsets](https://leetcode.com/problems/subsets/)
+
+## Week 26 (20220806 ~ 20220813)
+- [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
+- [476. Number Complement](https://leetcode.com/problems/number-complement/)
+- [78. Subsets](https://leetcode.com/problems/next-permutation/)
