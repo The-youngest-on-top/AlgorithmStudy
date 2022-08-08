@@ -159,4 +159,4 @@
 ## Week 26 (20220806 ~ 20220813)
 - [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
-- [78. Subsets](https://leetcode.com/problems/next-permutation/)
+- [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
