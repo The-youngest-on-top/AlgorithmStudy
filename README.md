@@ -155,3 +155,8 @@
 - [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 - [78. Subsets](https://leetcode.com/problems/subsets/)
+
+## Week 26 (20220806 ~ 20220813)
+- [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+- [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
+- [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
