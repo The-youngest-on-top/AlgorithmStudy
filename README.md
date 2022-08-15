@@ -160,3 +160,8 @@
 - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 - [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 - [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+
+## Week 27 (20220813 ~ 20220820)
+- [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
