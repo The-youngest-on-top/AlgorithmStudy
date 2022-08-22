@@ -166,7 +166,7 @@
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 
-## Week 27 (20220820 ~ 20220827)
+## Week 28 (20220820 ~ 20220827)
 - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
