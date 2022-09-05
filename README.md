@@ -170,3 +170,8 @@
 - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
+
+## Week 29 (20220827 ~ 20220903)
+- [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
+- [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+- [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
