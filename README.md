@@ -175,3 +175,8 @@
 - [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
 - [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+
+## Week 30 (20220903 ~ 20220910)
+- [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+- [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
