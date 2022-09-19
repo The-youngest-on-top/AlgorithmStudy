@@ -176,7 +176,12 @@
 - [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 
-## Week 30 (20220903 ~ 20220910)
+## Week 30 (20220903 ~ 20220917)
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
+## Week 31 (20220917 ~ 20220924)
+- [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+- [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+- [18. 4Sum](https://leetcode.com/problems/4sum/)
