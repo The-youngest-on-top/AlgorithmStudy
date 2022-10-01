@@ -185,3 +185,9 @@
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 - [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [18. 4Sum](https://leetcode.com/problems/4sum/)
+
+## Week 32 (20220924 ~ 20221001)
+- [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)
+- [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
+- [46. Permutations](https://leetcode.com/problems/permutations/)
+

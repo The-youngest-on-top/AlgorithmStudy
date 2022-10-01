@@ -16,7 +16,7 @@ function convert(s, numRows) {
                 j++;
                 col++;
             }
-          }
+        }
         else{
             array[row][col]=s[j];
             row++;
