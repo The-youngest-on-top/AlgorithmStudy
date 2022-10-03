@@ -191,3 +191,8 @@
 - [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
 - [46. Permutations](https://leetcode.com/problems/permutations/)
 
+## Week 33 (20221001 ~ 20221008)
+- [704. Binary Search](https://leetcode.com/problems/binary-search/)
+- [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+- [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
