@@ -196,3 +196,8 @@
 - [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 - [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
+## Week 34 (20221008 ~ 20221015)
+- [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+- [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
