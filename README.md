@@ -201,3 +201,8 @@
 - [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+## Week 35 (20221015 ~ 20221022)
+- [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+- [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+- [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+
