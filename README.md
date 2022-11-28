@@ -206,3 +206,7 @@
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
+## Week 36 (20221128 ~ 20221203)
+- [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
+- [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
