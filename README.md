@@ -208,5 +208,5 @@
 
 ## Week 36 (20221128 ~ 20221203)
 - [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
-- [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)
+- [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
