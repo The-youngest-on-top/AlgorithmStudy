@@ -210,3 +210,8 @@
 - [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 - [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+## Week 37 (20221203 ~ 20221210)
+- [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+- [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
+- [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
