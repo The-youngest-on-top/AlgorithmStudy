@@ -219,4 +219,4 @@
 ## Week 38 (20221210 ~ 20221217)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
-- [77. Combinations(https://leetcode.com/problems/combinations/description/)
+- [77. Combinations](https://leetcode.com/problems/combinations/description/)
