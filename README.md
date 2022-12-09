@@ -215,3 +215,8 @@
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
 - [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+
+## Week 38 (20221210 ~ 20221217)
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+- [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
+- [77. Combinations(https://leetcode.com/problems/combinations/description/)
