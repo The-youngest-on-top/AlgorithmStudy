@@ -208,5 +208,15 @@
 
 ## Week 36 (20221128 ~ 20221203)
 - [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
-- [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)
+- [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+## Week 37 (20221203 ~ 20221210)
+- [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+- [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
+- [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+
+## Week 38 (20221210 ~ 20221217)
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+- [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
+- [77. Combinations](https://leetcode.com/problems/combinations/description/)
