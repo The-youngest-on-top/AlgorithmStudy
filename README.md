@@ -220,3 +220,8 @@
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 - [77. Combinations](https://leetcode.com/problems/combinations/description/)
+
+## Week 39 (20221217 ~ 20221224)
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+- [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+- [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
