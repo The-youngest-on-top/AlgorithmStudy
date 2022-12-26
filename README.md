@@ -225,3 +225,8 @@
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+
+## Week 40 (20221224 ~ 20221231)
+- [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+- [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+- [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
